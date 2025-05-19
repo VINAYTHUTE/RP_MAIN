@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../rtl/lvds_serializer.vhd" \
+"../../../../../../rtl/top.vhd" \
+"../../../../../../sim/tb_top.vhd" \
+
+# Do not sort compile order
+nosort
