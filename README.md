@@ -1,9 +1,8 @@
 # RP_MAIN
-Certainly! Here's a comprehensive `README.md` tailored for your LVDS Serializer Vivado project, designed to provide clarity and ease of use for collaborators and users:
-
+LVDS Serializer project
 ---
 
-# LVDS Serializer Vivado Project
+# LVDS Serializer Project
 
 This project implements a 12-bit parallel-to-serial converter using Xilinx's `OSERDESE2` primitive, facilitating high-speed data transmission over Low-Voltage Differential Signaling (LVDS) lines.
 
