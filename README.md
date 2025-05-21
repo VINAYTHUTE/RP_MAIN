@@ -1,5 +1,4 @@
 # RP_MAIN
-LVDS Serializer project
 ---
 
 # LVDS Serializer Project
