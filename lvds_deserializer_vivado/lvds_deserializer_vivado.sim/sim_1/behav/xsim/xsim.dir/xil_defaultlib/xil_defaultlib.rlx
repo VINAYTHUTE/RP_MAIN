@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/myCodes/RP_MAIN/lvds_deserializer_vivado/lvds_deserializer_vivado.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/myCodes/RP_MAIN/lvds_deserializer_vivado/sim/tb_top.v,1748898016,verilog,,,,tb_top,,,,,,,,
+C:/myCodes/RP_MAIN/lvds_deserializer_vivado/src/deserializer_12bit.v,1748898016,verilog,,C:/myCodes/RP_MAIN/lvds_deserializer_vivado/src/top.v,,deserializer_12bit,,,,,,,,
+C:/myCodes/RP_MAIN/lvds_deserializer_vivado/src/top.v,1748898016,verilog,,C:/myCodes/RP_MAIN/lvds_deserializer_vivado/sim/tb_top.v,,top,,,,,,,,

@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: Simulation complete.
+Time: 1320 us  Iteration: 0  Process: /tb_top/stim_proc  File: C:/myCodes/sim/tb_top.vhd
+$finish called at time : 1320 us : File "C:/myCodes/sim/tb_top.vhd" Line 42

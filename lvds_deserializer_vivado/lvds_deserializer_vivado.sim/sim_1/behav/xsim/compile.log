@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/myCodes/RP_MAIN/lvds_deserializer_vivado/src/deserializer_12bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module deserializer_12bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/myCodes/RP_MAIN/lvds_deserializer_vivado/src/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/myCodes/RP_MAIN/lvds_deserializer_vivado/sim/tb_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/myCodes/RP_MAIN/lvds_deserializer_vivado/lvds_deserializer_vivado.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

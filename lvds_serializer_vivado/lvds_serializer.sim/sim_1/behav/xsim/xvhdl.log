@@ -1,6 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/myCodes/rtl/lvds_serializer.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'lvds_serializer'
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/myCodes/rtl/top.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'top'
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/myCodes/sim/tb_top.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'tb_top'
